@@ -1,0 +1,31 @@
+header{
+    height: 80px;
+}
+
+header nav{
+    margin: 10px;
+}
+
+header nav ul{
+    margin: 0 40px;
+    display: flex;
+    gap: 40px;
+    list-style: none;
+}
+
+header nav ul li{
+    padding: 10px;
+}
+
+header nav ul li a{
+    text-decoration: none;
+    color: #FC6872;
+}
+
+header nav ul li a:hover{
+    opacity: .8;
+}
+
+header nav ul li a img{
+    height: 35px;
+}

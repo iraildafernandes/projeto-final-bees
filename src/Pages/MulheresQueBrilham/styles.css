@@ -1,0 +1,32 @@
+.principal {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+  font-family: 'Roboto', sans-serif;
+  height: 80vh;
+}
+
+.blocos-videos{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.bloco {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.video{
+  display: flex;
+  flex-direction: column;
+  width: 350px;
+}
+
+.video p{
+  margin-top: 10px;
+}

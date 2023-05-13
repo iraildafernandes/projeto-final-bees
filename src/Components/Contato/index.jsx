@@ -8,7 +8,7 @@ function Contato() {
 
   return (
     <div className="container">
-      <h2 className="title">Contato</h2>
+      <h1 className="title">Contato</h1>
 
       <form className="form" onSubmit={() => {}}>
         <input 
