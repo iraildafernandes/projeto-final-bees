@@ -1,0 +1,62 @@
+.trilhas {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.trilhas div{
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.trilhas div h3{
+    font-size: 28px;
+}
+    
+.trilhas div a{
+    color: #fff;
+    font-size: 30px; 
+}
+    
+div p {
+    width: 250px;
+}
+    
+.Aline {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: solid 5px #FC6872;
+}
+
+.Andressa {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: solid 5px #FC6872;
+}
+
+.Ira {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: solid 5px #FC6872;
+}
+
+.Linda {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: solid 5px #FC6872;
+}
+
+.Naty {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: solid 5px #FC6872;
+}
