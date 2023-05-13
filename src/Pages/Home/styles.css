@@ -49,10 +49,13 @@ main{
 
 .cards-opcoes{
     height: 350px;
-    /* border: 1px solid red; */
+}
+
+.cards-opcoes img{
+    height: 300px;
+    width: 300px;
 }
 
 .cards-opcoes p{
     margin: 8px;
-    /* border: 1px solid red; */
 }

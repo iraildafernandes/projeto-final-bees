@@ -4,6 +4,7 @@ import Links from "../../Components/Links";
 import "./styles.css";
 
 import quadro from "../../img/lovelace-ada.png";
+import trilha from "../../img/trilha.png";
 import Footer from "../../Components/Footer";
 
 function Home(){
@@ -21,7 +22,7 @@ function Home(){
                     </div>
 
                     <div className="imagem-principal">
-                        <img src={quadro} alt="" title="" />
+                        <img src={quadro} alt="teste" title="teste" />
                     </div>
                 </div>
             </main>
@@ -29,7 +30,7 @@ function Home(){
             <section className="area-cards-opcoes">
                 <div className="cards-opcoes">
                     <Link to={"/trilhas"}>
-                        <img src={quadro} alt="teste" title="teste" />
+                    <img src={trilha} alt="Trihas Techs" title="" />
                     </Link>
 
                     <p>Trilhas Techs</p>

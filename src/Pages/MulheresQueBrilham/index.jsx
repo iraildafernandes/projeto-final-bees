@@ -6,7 +6,7 @@ function MulheresBrilham() {
   return (
     <>
       <Header />
-      <main className="principal">
+      <main className="principal-mulheres">
         <h1>Mulheres que brilham</h1>
 
         <div className="blocos-videos">
