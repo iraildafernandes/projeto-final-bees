@@ -11,14 +11,14 @@ function Contato() {
   return (
     <>
       <Header />
-      <div className="container">
+      <div className="container-contato">
        
-        <h2>
+        <h3 className="title">
           Buscamos promover a transformação social atráves da educação.
           Contribuímos com a alfabetização digital por meio de capitações
-          realizadas para nossos alunos e aproximando parceiros interessados em
+          realizadas para nossas alunas e aproximando parceiros interessados em
           nossas causas, oferenendo oportunidades.
-        </h2>
+        </h3>
 
         <form className="form" onSubmit={() => {}}>
           <input

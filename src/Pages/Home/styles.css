@@ -30,6 +30,7 @@ main{
 
 .imagem-principal{
     width: 50%;
+    
 }
 
 .imagem-principal img{
@@ -51,9 +52,14 @@ main{
     height: 350px;
 }
 
+.cards-opcoes:hover{
+    transform: scale(1.1);
+  }
+  
+
 .cards-opcoes img{
     height: 300px;
-    width: 300px;
+    width: 300px;    
 }
 
 .cards-opcoes p{

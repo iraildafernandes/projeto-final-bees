@@ -21,7 +21,7 @@ function FilmesPage() {
   }, []);
 
   if (!filme) {
-    return <h2>CARREGANDO...</h2>;
+    return <h1 className="loading">CARREGANDO...</h1>;
   }
 
   return (
